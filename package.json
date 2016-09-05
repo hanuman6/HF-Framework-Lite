@@ -1,25 +1,25 @@
 {
-    "name": "hf-framwork-lite",
-    "version": "0.1.0",
-    "description": "Starter Kit for a Website Development.",
-    "main": "gulpfile.js",
-    "dependencies": {},
-    "devDependencies": {
-        "gulp": "latest",
-        "gulp-cssnext": "^latest",
-        "gulp-sass": "^latest"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/hanuman6/HF-Framework-Lite.git"
-    },
-    "author": "Yoshihiro Fujita",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/hanuman6/HF-Framework-Lite/issues"
-    },
-    "homepage": "https://github.com/hanuman6/HF-Framework-Lite#readme"
+  "name": "hf-framwork-lite",
+  "version": "0.1.0",
+  "description": "Starter Kit for a Website Development.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnext": "^latest",
+    "gulp-sass": "^latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanuman6/HF-Framework-Lite.git"
+  },
+  "author": "Yoshihiro Fujita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanuman6/HF-Framework-Lite/issues"
+  },
+  "homepage": "https://github.com/hanuman6/HF-Framework-Lite#readme"
 }
